@@ -28,7 +28,6 @@ This repository contains my studies of the Python language and its libraries foc
 
 <h3>References:</h3>
 
-
-
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ---
