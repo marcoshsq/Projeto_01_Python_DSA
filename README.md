@@ -14,14 +14,21 @@ This repository contains my studies of the Python language and its libraries foc
 
 <h3>Contents:</h3>
 
-- []()
-- []()
+- [Jupyter Notebooks]()
+- [Numpy]()
+- [Pandas]()
+- [Matplotlib]()
+- [Seaborn]()
+- [Data Cleaning]()
+- [Reading Data]()
+- [PySpark]()
+- [Python with SQLite]()
 
 ##
 
 <h3>References:</h3>
 
-- []() - 
+
 
 
 ---
