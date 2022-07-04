@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/marcoshsq/PythonForDataAnalysis">
+  <a href="https://github.com/marcoshsq/PY4A">
     <img src="https://github.com/marcoshsq/PythonForDataAnalysis/blob/main/Icon/Analytics.png" alt="python" width="150" height="150">
   </a>
 </p>
