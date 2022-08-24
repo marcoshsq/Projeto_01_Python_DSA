@@ -8,21 +8,15 @@
 
 <h3>About:</h3>
 
-This repository contains my studies of the Python language and its libraries focused on Data Analysis.
+This repository contains my studies of the Python language and its libraries with a focus on Data Analysis. To this end, I'm following the Python Fundamentals for Data Analysis 3.0 course, which is a course with 13 content modules, plus an introduction and a final assessment, totaling 15 modules.
+
+The course will explore content such as data processing, Database Manipulation in Python, TensorFlow, and Web Scraping, as well as the libraries for this purpose. As a complement, I'm including some other courses to deepen and fix knowledge, which can be found at the end of this ``README``.
 
 ##
 
 <h3>Contents:</h3>
 
-- [Data Analysis Using Python]()
-- [Numpy]()
-- [Pandas]()
-- [Matplotlib]()
-- [Seaborn]()
-- [Data Cleaning]()
-- [Reading Data]()
-- [PySpark]()
-- [Python with SQLite]()
+Work in progress...
 
 ##
 
