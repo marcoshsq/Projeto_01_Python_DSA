@@ -26,8 +26,14 @@ This repository contains my studies of the Python language and its libraries foc
 
 ##
 
-<h3>References:</h3>
+<h3>Bibliographic references::</h3>
 
-- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Python Fundamentals of Data Analysis 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos)
+- [FreeCodeCamp - Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+- [NumPy Crash Course - Complete Tutorial](Python Engineer)
+- [Data Analysis with Python for Excel Users](https://www.youtube.com/watch?v=WcDaZ67TVRo&list=LL&index=33&t=165s)
+- [Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4&list=LL&index=29&t=34s)
+- [PySpark](https://www.youtube.com/watch?v=_C8kWso4ne4&list=LL&index=26&t=30s)
+- [SQLite Databases With Python](https://www.youtube.com/watch?v=byHcYRpMgI4&list=LL&index=19)
 
 ---
