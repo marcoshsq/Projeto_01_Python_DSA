@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/PY4A">
-    <img src="https://github.com/marcoshsq/PythonForDataAnalysis/blob/main/Icon/Analytics.png" alt="python" width="150" height="150">
+    <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/data-analysis-2157795-1813412.png" alt="python" width="150" height="150">
   </a>
 </p>
   <h2 align="center">:snake::snake: Python for Data Analysis :snake::snake:</h2>
