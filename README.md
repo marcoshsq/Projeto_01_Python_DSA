@@ -6,14 +6,14 @@
   <h2 align="center">:snake::snake: Python para Análise de Dados :snake::snake:</h2>
 </div>
 
-<h3>About:</h3>
+<h3>Sobre:</h3>
 
 Este repositório contém minhas anotações e estudos feitos durante o curso Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT) oferecido pela Data Science Academy.
 
 
 ##
 
-<h3>Contents:</h3>
+<h3>Conteúdo:</h3>
 
 Work in progress...
 
